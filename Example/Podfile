@@ -11,6 +11,6 @@ target 'ComponentModuleB_Example' do
   target 'ComponentModuleB_Tests' do
     inherit! :search_paths
 
-    
+  
   end
 end
