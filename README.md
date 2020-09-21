@@ -24,7 +24,7 @@ pod 'ComponentModuleB'
 
 jiaojiaozhe, lanbiao@zhihuihutong.com
 
-## License
+## License  
 
 ComponentModuleB is available under the MIT license. See the LICENSE file for more info.
 
