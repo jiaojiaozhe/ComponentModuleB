@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ComponentModuleB.h"
 #import "Target_ComponentModuleB.h"
 #import "ComponentModuleBViewController.h"
 
