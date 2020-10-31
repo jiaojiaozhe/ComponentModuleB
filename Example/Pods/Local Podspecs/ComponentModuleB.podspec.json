@@ -1,6 +1,6 @@
 {
   "name": "ComponentModuleB",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "ComponentModuleB业务组件.",
   "description": "ComponentModuleB业务组件",
   "homepage": "https://github.com/jiaojiaozhe/ComponentModuleB",
@@ -13,14 +13,17 @@
   },
   "source": {
     "git": "https://github.com/jiaojiaozhe/ComponentModuleB.git",
-    "tag": "0.0.3"
+    "tag": "0.0.5"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
   "source_files": "ComponentModuleB/Classes/**/*",
   "dependencies": {
     "LogicBaseComponentModule": [
+
+    ],
+    "XAbstractionLibrary-UICommon": [
 
     ]
   }
